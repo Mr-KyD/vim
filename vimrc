@@ -56,7 +56,7 @@ set t_Co=256 " Explicitly tell vim that the terminal supports 256 colors
 "***********************************************
 "Folding
 "***********************************************
-set foldmethod=marker " basado en sintaxis
+set foldmethod=marker " basado en Marca
 
 "set foldnestmax=10
 "set foldlevelstart=1
