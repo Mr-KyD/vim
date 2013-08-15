@@ -60,7 +60,6 @@ set foldmethod=marker " basado en Marca
 
 "set foldnestmax=10
 "set foldlevelstart=1
-"set nofoldenable
 "set foldlevel=1
 
 "***********************************************
