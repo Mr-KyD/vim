@@ -74,6 +74,9 @@ abbreviate fmain int main ( int carg, char** arg, char** ve){}
 abbreviate line #***********************************************
 abbreviate line1 /**********************************************
 abbreviate line2 ***********************************************/
+iab lst listo stage<CR>-----------
+iab l0 listo 01<CR>--------
+iab lr listo replica<CR>-------------
 
 "***********************************************
 "Mapeos
