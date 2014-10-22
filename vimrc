@@ -94,3 +94,8 @@ let g:NERDTreeWinPos = "left"
 let g:NERDTreeWinSize = 25
 " Startup
 let g:nerdtree_tabs_open_on_console_startup=1
+
+" Pathogen preferences
+call pathogen#infect()
+syntax on
+filetype plugin indent on
